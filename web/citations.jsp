@@ -15,7 +15,7 @@
     </head>
     <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="#">ORNL Code Sample</a>
+            <a class="navbar-brand" href="#">Java Code Sample</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -59,7 +59,7 @@
             <h1 class="display-4">Citations</h1>
             <p class="lead"> The sources used to assemble this application.</p>
             <hr class="my-4">
-            <p>This is a code sample submitted by Jon Lay to the Oak Ridge National Laboratory (ORNL) on August, 2 2019, as a required step in the interview process for the position of Research Software Engineer for Web Applications. Per the instructions provided, this code sample seeks to be related in some way to the subject of the job posting, is object-oriented, contain at least five classes or components, uses modern front-end coding techniques, shows a sophisticated understanding of the project, and is an original product to a very high degree (>95%). It was created using the following technologies:</p>
+            <p>This code sample was created using the following technologies:</p>
                 <ul>
                     <li>NetBeans IDE v.8.2</li>
                     <li>Java SE jdk 1.8</li>

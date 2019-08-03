@@ -63,7 +63,7 @@ public class pageServlet extends HttpServlet {
             out.println("</head>");
             out.println("<body>");
             out.println("<nav class='navbar navbar-expand-lg navbar-light bg-light'>");
-            out.println("<a class='navbar-brand' href='#'>ORNL Code Sample</a>");
+            out.println("<a class='navbar-brand' href='#'>Java Code Sample</a>");
             out.println("<button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'>");
             out.println("<span class='navbar-toggler-icon'></span>");
             out.println("</button>");
